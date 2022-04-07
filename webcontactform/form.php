@@ -1,9 +1,3 @@
-<?php
-    if(isset($_POST['name'], $_POST['email'])){
-        echo 'yes';
-    }
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
